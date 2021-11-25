@@ -6,10 +6,15 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		846B4A34274FDB5A00DEDDE8 /* DeckOfCards1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DeckOfCards1.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		846B4A2B274FD9F600DEDDE8 = {
 			isa = PBXGroup;
 			children = (
+				846B4A34274FDB5A00DEDDE8 /* DeckOfCards1.playground */,
 			);
 			sourceTree = "<group>";
 		};
