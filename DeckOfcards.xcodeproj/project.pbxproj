@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		846B4A34274FDB5A00DEDDE8 /* DeckOfCards1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DeckOfCards1.playground; sourceTree = "<group>"; };
+		846B4A34274FDB5A00DEDDE8 /* DeckOfCards1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DeckOfCards1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
